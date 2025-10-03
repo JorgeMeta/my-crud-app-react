@@ -17,6 +17,7 @@ export default function UserListPage() {
       <h1 className="text-2xl font-bold mb-4 px-6 text-center">
         Lista de Usuários
       </h1>
+      <h1 className="text-3xl font-bold text-blue-600">Hello Tailwind!</h1>
       <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400">
         <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
           <tr>
