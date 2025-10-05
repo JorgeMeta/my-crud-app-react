@@ -1,29 +1,39 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "João Silva",
       "email": "joao.silva@example.com"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Maria Oliveira",
       "email": "maria.oliveira@example.com"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Carlos Santos",
       "email": "carlos.santos@example.com"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Ana Souza",
       "email": "ana.souza@example.com"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Pedro Almeida",
       "email": "pedro.almeida@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Jorge luis attie",
+      "email": "attiejorge89@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Jorge luis attie",
+      "email": "attiejorge89@gmail.com"
     }
   ]
 }
